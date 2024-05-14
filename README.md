@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galvan7" alt="galvan7" /></a> </p>
 
-- 🔭 I’m currently working on [Buzzhive](https://github.com/Galvan7/Buzzhive)
+- 🔭 I’m currently working on [Cravefy](https://github.com/Galvan7/Cravefy)
 
 - 🌱 I’m currently learning **Pipelines, Django**
 
