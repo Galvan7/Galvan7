@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [Cravefy](https://github.com/Galvan7/Cravefy)
 
-- 🌱 I’m currently learning **Pipelines, Django**
 
 - 👯 I’m looking to work on [projects and](internship roles.)
 
