@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aman Goswami</h1>
-<h3 align="center">A passionate MERN Stack developer and Data Analyst.</h3>
+<h3 align="center">A passionate Full Stack developer (Golang, Mode, React, Next) and Data Analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galvan7&label=Profile%20views&color=0e75b6&style=flat" alt="galvan7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galvan7" alt="galvan7" /></a> </p>
 
-- 🔭 I’m currently working on [Cravefy](https://github.com/Galvan7/Cravefy)
+- 🔭 I’m currently working on [NX]()
 
 
-- 👯 I’m looking to work on [projects and](internship roles.)
-
+- 👯 I’m looking to work on full time roles.
+  
 - 🤝 I’m looking to contribute in [open source work](and new ideas)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Galvan7](https://github.com/Galvan7)
